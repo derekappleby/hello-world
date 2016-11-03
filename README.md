@@ -1,2 +1,2 @@
 # hello-world
-A simple repository
+This is a simple repository created following the guide.
